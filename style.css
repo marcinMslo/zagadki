@@ -1,0 +1,74 @@
+body {
+    background-image: url(https://www.10wallpaper.com/wallpaper/1366x768/1308/purple_wavy_lines-HIGH_Quality_Wallpaper_1366x768.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: rgb(1, 0, 8);
+    background-attachment: fixed;
+
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: relative;
+    top: 0.3cm;
+    font-size: 35px;
+    letter-spacing: 2mm;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 10cm;
+    position: relative;
+    top: 2cm;
+    font-size: 27px;
+
+}
+
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 5cm;
+    position: relative;
+    top: 5cm;
+    font-size: 20px;
+}
+
+h3 {
+    position: relative;
+    top: 6cm;
+    position: relative;
+    left: 10cm;
+    line-height: 0cm;
+    
+
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    position: relative;
+    top: 9cm;
+    position: relative;
+    left: 5cm;
+}
+
+input{
+    background-color: rgb(67, 149, 255);
+    border-radius: 40px;
+    font-size: 20px;
+    font-family:monospace;
+    padding: 5px 32px;
+    display: inline-block;
+    border: 5px solid #3106f3;
+    
+    
+    
+}
+
